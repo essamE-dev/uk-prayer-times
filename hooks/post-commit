@@ -1,0 +1,3 @@
+#!/bin/sh
+# Auto-push to origin/main after every commit
+git push origin main
